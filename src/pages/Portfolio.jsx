@@ -37,21 +37,21 @@ const projects = [
     desc: "Interface de formulário avançada com preview e filtros de opcionais.",
     tags: ["HTML", "JS", "UI"],
     img: "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=400&h=300&fit=crop",
-    link: "https://vinihero1.github.io/venda-carros/",
+    link: "https://venda-carros-one.vercel.app/",
   },
   {
     title: "Pokédex Interativa",
     desc: "Consumo de API rest para listagem e filtragem de personagens.",
     tags: ["API", "JS", "Async"],
     img: "https://images.unsplash.com/photo-1613771404721-1f92d799e49f?q=80&w=400&h=300&fit=crop",
-    link: "https://vinihero1.github.io/pokedex-interativa/",
+    link: "https://pokedex-interativa-alpha.vercel.app/",
   },
   {
     title: "Tabuada Dinâmica",
     desc: "Manipulação de DOM em tempo real para fins educacionais.",
     tags: ["Logic", "JS", "DOM"],
     img: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?q=80&w=400&h=300&fit=crop",
-    link: "https://vinihero1.github.io/projeto-tabuada/",
+    link: "https://projeto-tabuada-orcin.vercel.app/",
   },
 ];
 
