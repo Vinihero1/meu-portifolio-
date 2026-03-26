@@ -30,7 +30,7 @@ const projects = [
     desc: "Integração de API para conversão de dados em códigos escaneáveis.",
     tags: ["API", "JS", "UX"],
     img: "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?q=80&w=400&h=300&fit=crop",
-    link: "https://gerador-qrcode-liard.vercel.app/",
+    link: "https://gerador-qrcode-12j6.vercel.app/",
   },
   {
     title: "Venda seu Carro",
