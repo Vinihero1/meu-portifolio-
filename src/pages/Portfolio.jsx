@@ -23,7 +23,7 @@ const projects = [
     desc: "Lógica matemática aplicada à saúde com retorno visual imediato.",
     tags: ["JS", "CSS", "Forms"],
     img: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=400&h=300&fit=crop",
-    link:"https://imcalculadora.vercel.app",
+    link:"https://imcalculadora-5ffy.vercel.app/",
   },
   {
     title: "Gerador de QR Code",
