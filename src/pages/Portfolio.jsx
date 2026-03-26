@@ -16,7 +16,7 @@ const projects = [
     desc: "Landing page premium com troca dinâmica de cores e animações suaves.",
     tags: ["HTML", "CSS", "JS"],
     img: "https://images.unsplash.com/photo-1632661674596-df8be070a5c5?q=80&w=400&h=300&fit=crop",
-    link: "https://vinihero1.github.io/Phone-13-Pro-Clone/",
+    link: "https://phone-13-pro-clone.vercel.app/",
   },
   {
     title: "Calculadora de IMC",
