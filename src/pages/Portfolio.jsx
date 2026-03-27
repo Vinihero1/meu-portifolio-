@@ -9,7 +9,7 @@ const projects = [
     desc: "Recriação da interface social com foco em feed e stories responsivos.",
     tags: ["HTML", "CSS", "JS"],
     img: "https://images.unsplash.com/photo-1611267254323-4db7b39c732c?q=80&w=400&h=300&fit=crop",
-    link: "https://vinihero1.github.io/Instagram-Clone/",
+    link: "https://pokedex-interativa-alpha.vercel.app/",
   },
   {
     title: "iPhone 13 Pro Clone",
