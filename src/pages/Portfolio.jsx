@@ -4,13 +4,13 @@ import { motion } from "framer-motion";
 import LaunchIcon from "@mui/icons-material/Launch";
 
 const projects = [
-  {
-    title: "Instagram Clone",
-    desc: "Recriação da interface social com foco em feed e stories responsivos.",
-    tags: ["HTML", "CSS", "JS"],
-    img: "https://images.unsplash.com/photo-1611267254323-4db7b39c732c?q=80&w=400&h=300&fit=crop",
-    link:"https://instagram-clone-psi-azure.vercel.app/",
-  },
+{
+  title: "Lâmpada Interativa",
+  desc: "Aplicação front-end desenvolvida em HTML e CSS que simula o acionamento de uma lâmpada com efeitos visuais de iluminação e animações responsivas.",
+  tags: ["HTML5", "CSS3", "Front-End"],
+  img: "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=400&h=300&fit=crop",
+  link: "https://lampada-interativa.vercel.app/",
+},
   {
     title: "iPhone 13 Pro Clone",
     desc: "Landing page premium com troca dinâmica de cores e animações suaves.",
